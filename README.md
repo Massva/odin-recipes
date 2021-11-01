@@ -8,7 +8,7 @@
     <h2>Italian recipes</h2>
 
     <ul>
-        <li><a href="recipes/Ascoli_olives.html">Ascoli_olives</a></li>
+        <li><a href="Ascoli_olives.html">Ascoli_olives</a></li>
         <li><a href="recipes/pizza.html">Pizza</a></li>
         <li><a href="recipes/tiramisu.html">Tiramisù</a></li>
     </ul>
