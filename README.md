@@ -10,7 +10,7 @@
     <ul>
         <li><a href="Ascoli_olives.html">Ascoli_olives</a></li>
         <li><a href="pizza.html">Pizza</a></li>
-        <li><a href="recipes/tiramisu.html">Tiramisù</a></li>
+        <li><a href="tiramisu.html">Tiramisù</a></li>
     </ul>
 
     <img src="italy.jpg">
