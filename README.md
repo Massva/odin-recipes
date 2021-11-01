@@ -13,7 +13,7 @@
         <li><a href="recipes/tiramisu.html">Tiramisù</a></li>
     </ul>
 
-    <img src="![italy](https://user-images.githubusercontent.com/90212339/139701075-be00ecd3-db64-4d1c-9ae4-5ad3cac18860.jpg)">
+    <img src="italy.jpg">
 
     
 </html>
